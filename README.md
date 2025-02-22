@@ -1,90 +1,85 @@
-# Alhassan Alfarran - Fullstack Developer
+# Портфолио Алхассана Альфаррана
 
-## About Me
+Привет! Меня зовут Алхассан Альфарран, и я Fullstack Разработчик с более чем 4-летним опытом в создании динамичных и адаптивных веб-приложений. Моя экспертиза охватывает HTML, CSS, JavaScript и современные фреймворки, такие как Vue.js и React. Я также имею опыт в разработке блокчейн-технологий, включая смарт-контракты, протоколы DeFi и NFT.
 
-Hello! I'm Alhassan Alfarran, a Fullstack Developer with over 4 years of experience in creating dynamic and responsive web applications. My expertise lies in frontend development, utilizing technologies such as HTML, CSS, JavaScript, React, and Vue.js. I am passionate about delivering high-quality, user-centric interfaces and optimizing performance for seamless user experiences.
+## Содержание
 
-## Skills
+- [Обо мне](#обо-мне)
+- [Резюме](#резюме)
+- [Проекты](#проекты)
+- [Контакты](#контакты)
 
-- **React**: 95%
-- **Node.js**: 85%
-- **Data Visualization**: 90%
-- **Statistical Analysis**: 85%
-- **Machine Learning**: 80%
+## Обо мне
 
-## Profile
+С более чем 4-летним опытом в области frontend-разработки, я обладаю прочными знаниями в создании динамичных и адаптивных веб-приложений. Моя экспертиза охватывает HTML, CSS, JavaScript и современные фреймворки, такие как Vue.js и React. У меня есть доказанная история создания высококачественных, ориентированных на пользователя интерфейсов, и я умею использовать инструменты, такие как Git, Webpack и Vite, для оптимизации процессов разработки.
 
-- **Job Role**: Fullstack Developer
-- **Domain**: Web Development, E-commerce & Digital Marketing
-- **Education**: Bachelor of Computer Science
-- **Languages**: English, Russian, Arabic
+Помимо frontend-разработки, у меня есть обширный опыт в разработке блокчейна, включая создание смарт-контрактов, протоколов DeFi и NFT. Я работал над различными блокчейн-проектами, интегрировал с платформами DeFi и создавал маркетплейсы NFT.
 
-## Technologies & Tools
+### Профиль
 
-- **Technologies**: React, HTML, CSS, JavaScript, Vue.js, TypeScript
-- **Tools**: Git, Webpack, Vite, Figma, Tailwind CSS, Excel, JIRA, Google Analytics, SEO
-- **Other Skills**: Responsive Design, Cross-Browser Compatibility, State Management, API Integration
+- **Имя:** Алхассан Альфарран
+- **Роль:** Fullstack Разработчик
+- **Опыт:** 4 года 3 месяца
+- **Адрес:** Россия, Москва
 
-## Experience
+### Навыки и Технологии
 
-### Fullstack Developer
-**Artifex, USA (Remote)**
-*September 2024 - February 2025*
-- Developed and maintained web applications using React and MongoDB.
-- Created reliable and high-performance applications.
-- Interacted with APIs and developed user interfaces.
-- Participated in projects to automate business processes.
-- Optimized application performance and scalability.
+- **Языки программирования:** JavaScript, Python, C++, C
+- **Фреймворки:** React.js, Vue.js, Next.js, AngularJS
+- **Базы данных:** PostgreSQL, MongoDB, Redis
+- **Инструменты:** Git, Webpack, Vite, Figma, Tailwind CSS, Bootstrap
+- **Блокчейн:** Solidity, Web3, Truffle, Hardhat, MetaMask, Infura, Alchemy
+- **Аналитика:** Google Analytics, SEO
+- **Другие навыки:** Адаптивный дизайн, Кроссбраузерная совместимость, Управление состоянием, Интеграция API
 
-### Fullstack Developer
-**Freelancer (Remote)**
-*February 2020 - May 2024*
-- Developed and maintained various web applications for clients.
-- Created adaptive and cross-browser compatible websites.
-- Collaborated with clients to define project requirements and specifications.
-- Optimized performance and improved user experience.
-- Provided support and updates for existing web applications.
+## Резюме
 
-## Education
+Опытный Fullstack Разработчик с более чем 4-летним опытом создания динамичных и адаптивных веб-приложений. Доказанная экспертиза в области frontend-разработки с глубоким пониманием HTML, CSS, JavaScript и современных фреймворков, таких как Vue.js и React. Умение создавать ориентированные на пользователя интерфейсы и оптимизировать производительность для бесшовного пользовательского опыта.
 
-- **Master in Computer Science**
-  *University of Science and Technology MISIS, Moscow, Russia*
-  *2024-2026*
+## Образование
 
-- **Bachelor in Computer Science**
-  *Ural Federal University, Yekaterinburg, Sverdlovsk Oblast*
-  *2020-2024*
+- **Магистр компьютерных наук** (2024-2026)
+  - Университет науки и технологий МИСИС, Москва, Россия
+- **Бакалавр компьютерных наук** (2020-2024)
+  - Уральский федеральный университет, Екатеринбург, Свердловская область
 
-## Projects
+## Сертификаты
 
-### To-do App
-A digital tool that helps users manage tasks and boost productivity by allowing them to create, organize, and track tasks with features like reminders, due dates, and progress tracking, all within an intuitive interface.
+- **Concurrency in Go** (2023) - Coursera
+- **Data Visualization** (2023) - freeCodeCamp
+- **Functions, Methods, and Interfaces in Go** (2023) - Coursera
+- **Getting Started with Go** (2023) - Coursera
+- **Programming with Google Go Specialization** (2023) - Coursera
+- **Front End Development Libraries** (2023) - freeCodeCamp
+- **JavaScript Algorithms and Data Structures** (2023) - freeCodeCamp
+- **Responsive Web Design** (2023) - freeCodeCamp
+- **Multi-threaded programming in C/C++** (2022) - Stepik
+- **Front-End JavaScript Frameworks: Angular** (2022) - Coursera
+- **Front-End Web UI Frameworks and Tools: Bootstrap 4** (2022) - Coursera
+- **Full Stack Web Development with Angular Specialization** (2022) - Coursera
+- **Server-side Development with NodeJS, Express and MongoDB** (2022) - Coursera
+- **Building Web Applications in PHP** (2022) - Coursera
+- **Introduction to Structured Query Language (SQL)** (2022) - Coursera
+- **Machine Learning for All** (2022) - Coursera
+- **Understanding and Visualizing Data with Python** (2022) - Coursera
 
-### naumen.scala.course
-A course structured with lectures available as HTML presentations in the `/lectures/` directory, accessible offline by downloading the entire folder. Homework assignments are found in the `/homeworks/` directory and will be uploaded as the course progresses.
+## Проекты
 
-### Responsive Pricing Page
-A responsive pricing page for a website where users can purchase credits for video generation. The page includes multiple pricing options and a section for entering promo codes. It is designed to be user-friendly across both desktop and mobile platforms.
+- [Приложение для заметок](https://github.com/kyan9400/todo-app)
+- [naumen.scala.course](https://github.com/kyan9400/naumen.scala.course.2023.spring)
+- [Адаптивная страница с ценами](https://github.com/kyan9400/pricing_page)
+- [Простой сайт электронной коммерции](https://shop-website-sable.vercel.app/)
+- [Сайт RentHouse](https://real-estate-website-ten-lyart.vercel.app/)
+- [Educal - Онлайн-платформа для обучения](https://ak-edu-pearl.vercel.app/)
+- [Musicax](https://music-app-eight-liart.vercel.app/)
 
-## Achievements
+## Контакты
 
-- **Projects Completed**: 19
-- **Mentored Students**: 647
-- **Cups of Coffee**: 323
-
-## Contact
-
-- **Address**: Russia, Moscow
-- **Contact Number**: +7 919 399 749
-- **Email Address**: [kyan775909@gmail.com](mailto:kyan775909@gmail.com)
-- **Download Resume**: [Resume Link](resumelink)
-
-## Interests
-
-- Traveling
-- Travel Photography
-- Learning New Technologies
+- **Email:** kyan775909@gmail.com
+- **Телефон:** +7 919 399 749
+- **LinkedIn:** [Alhassan Alfarran](https://www.linkedin.com/in/alhassan-alfarran-880b00246/)
+- **GitHub:** [kyan9400](https://github.com/kyan9400)
 
 ---
 
-©2025 All rights reserved
+Copyright © 2025 Все права защищены.
